@@ -1,0 +1,14 @@
+C:\Users\haha\Desktop\GitHub Section\SectionProject\bin\Debug\net8.0\SectionProject.exe
+C:\Users\haha\Desktop\GitHub Section\SectionProject\bin\Debug\net8.0\SectionProject.deps.json
+C:\Users\haha\Desktop\GitHub Section\SectionProject\bin\Debug\net8.0\SectionProject.runtimeconfig.json
+C:\Users\haha\Desktop\GitHub Section\SectionProject\bin\Debug\net8.0\SectionProject.dll
+C:\Users\haha\Desktop\GitHub Section\SectionProject\bin\Debug\net8.0\SectionProject.pdb
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.AssemblyInfoInputs.cache
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.AssemblyInfo.cs
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.csproj.CoreCompileInputs.cache
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.dll
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\refint\SectionProject.dll
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.pdb
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\SectionProject.genruntimeconfig.cache
+C:\Users\haha\Desktop\GitHub Section\SectionProject\obj\Debug\net8.0\ref\SectionProject.dll
